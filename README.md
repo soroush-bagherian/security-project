@@ -11,7 +11,6 @@
 
 * php 8.x.x
 * redis
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
 
 ### Installation
 - install vendor
